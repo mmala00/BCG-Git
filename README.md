@@ -1,1 +1,1 @@
-"Welcome to TISE by BCG" 
+"Welcome to RISE by BCG" 
